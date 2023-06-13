@@ -1,1 +1,2 @@
 # odin-recipes
+This project showcases various delicious recipes, including links to external pages and images. Throughout this project, I will enhance my HTML knowledge by using tags, links, elements, and more.
